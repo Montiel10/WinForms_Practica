@@ -1,0 +1,9 @@
+C:\Users\MONTIEL\source\repos\WinForms_Practica\WinForms_Practica\obj\Debug\net8.0-windows\WinForms_Practica.Form1.resources
+C:\Users\MONTIEL\source\repos\WinForms_Practica\WinForms_Practica\obj\Debug\net8.0-windows\WinForms_Practica.vbproj.GenerateResource.cache
+C:\Users\MONTIEL\source\repos\WinForms_Practica\WinForms_Practica\obj\Debug\net8.0-windows\WinForms_Practica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MONTIEL\source\repos\WinForms_Practica\WinForms_Practica\obj\Debug\net8.0-windows\WinForms_Practica.AssemblyInfoInputs.cache
+C:\Users\MONTIEL\source\repos\WinForms_Practica\WinForms_Practica\obj\Debug\net8.0-windows\WinForms_Practica.AssemblyInfo.vb
+C:\Users\MONTIEL\source\repos\WinForms_Practica\WinForms_Practica\obj\Debug\net8.0-windows\WinForms_Practica.vbproj.CoreCompileInputs.cache
+C:\Users\MONTIEL\source\repos\WinForms_Practica\WinForms_Practica\obj\Debug\net8.0-windows\WinForms_Practica.dll
+C:\Users\MONTIEL\source\repos\WinForms_Practica\WinForms_Practica\obj\Debug\net8.0-windows\refint\WinForms_Practica.dll
+C:\Users\MONTIEL\source\repos\WinForms_Practica\WinForms_Practica\obj\Debug\net8.0-windows\WinForms_Practica.pdb
